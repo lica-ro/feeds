@@ -1,3 +1,12 @@
+#
+# socks_proxy
+#
+# ipv4 hash:ip ipset
+#
+# [socks-proxy.net] (http://www.socks-proxy.net/) open SOCKS 
+# proxies
+#
+# Maintainer      : Free Proxy List
 1.0.132.249
 1.0.133.89
 1.0.133.100
